@@ -3,6 +3,9 @@ Development Custom in Drupal
 
 >Following a examples to write better development custom in Drupal
 
+>[!NOTE]
+> Review **modules** folder to review all ***components to development with API in Drupal*** test modify and code, remember review official link in next line this.
+
 ## Examples for Developers
 
 - **Project site**: https://www.drupal.org/project/examples
