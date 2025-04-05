@@ -72,7 +72,8 @@ already an issue for it, please create a new one.
 
 Thanks.
 
-Note: In this file, `1.`'s are used for the ordered list, which is a
+>[!NOTE]
+>In this file, `1.`'s are used for the ordered list, which is a
 "best practice" (see
 [README.md template](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template))
 
